@@ -10,6 +10,9 @@ root = tree.getroot()
 			<Parameter name="type">postgis</Parameter>
 			<Parameter name="host">localhost</Parameter>
 			<Parameter name="port">25432</Parameter>
+name is a tag "type" is an attrib
+name is a tag "host" is an attrib
+name is a tag "port" is an attrib
 '''
 
 
